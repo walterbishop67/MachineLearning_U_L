@@ -16,4 +16,6 @@
   <h2>> Classification</h2>
     <p>
       &emsp; Section13 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section13/Ml_Sec13.ipynb/">Logistic_Regression</a><br>
+      &emsp; Section14 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section14/Ml_Sec14.ipynb/">K-NN</a><br>
+      &emsp; Section15 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section15/Ml_Sec15.ipynb/">SVM</a><br>
     </p>
