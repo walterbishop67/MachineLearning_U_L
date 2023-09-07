@@ -19,4 +19,5 @@
       &emsp; Section14 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section14/Ml_Sec14.ipynb/">K-NN</a><br>
       &emsp; Section15 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section15/Ml_Sec15.ipynb/">SVM</a><br>
       &emsp; Section16 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section16/Ml_Sec16.ipynb/">Kernel SVM</a><br>
+      &emsp; Section17 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section17/Ml_Sec17.ipynb/">Naive Bayes</a><br>
     </p>
