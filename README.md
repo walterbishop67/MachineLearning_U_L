@@ -20,4 +20,6 @@
       &emsp; Section15 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section15/Ml_Sec15.ipynb/">SVM</a><br>
       &emsp; Section16 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section16/Ml_Sec16.ipynb/">Kernel SVM</a><br>
       &emsp; Section17 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section17/Ml_Sec17.ipynb/">Naive Bayes</a><br>
+      &emsp; Section18 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section18/Ml_Sec18.ipynb/">Desicion_Tree_Classification</a><br>
+      &emsp; Section19 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section19/Ml_Sec19.ipynb/">Random_Tree_Classification</a><br>
     </p>
