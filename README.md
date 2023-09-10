@@ -25,3 +25,6 @@
       &emsp; Section20 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/tree/main/Section20/">Classification_Model_Selection</a>
     </p>
   <h2>> Clustering</h2>
+    <p>
+      &emsp; Section21 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section21/K-Means.ipynb/">K-Means</a>
+    </p>
