@@ -26,5 +26,7 @@
     </p>
   <h2>> Clustering</h2>
     <p>
-      &emsp; Section21 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section21/K-Means.ipynb/">K-Means</a>
+      &emsp; Section21 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section21/K-Means.ipynb/">K-Means</a><br>
+      &emsp; Section21 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section22/Hierarchical_Clustering.ipynb/">Hierarchical_Clustering</a><br>
     </p>
+  <h2>> Association_Rule_Learning</h2>  
