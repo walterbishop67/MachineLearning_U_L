@@ -34,3 +34,9 @@
       &emsp; Section23 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section23/Apriori_and_Eclat.ipynb/">Apriori_and_Eclat</a><br>
     </p>
   <h2>> Reinforcement_Learning</h2>
+    <p>
+      &emsp; Section24 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section24/Thompson_Sampling.ipynb/">Thompson_Sampling</a><br>
+      &emsp; Section25 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section25/Upper_Confidence_Bound_(UCB).ipynb/">Upper_Confidence_Bound_(UCB)</a><br>
+    </p>
+
+  
