@@ -38,5 +38,9 @@
       &emsp; Section24 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section24/Thompson_Sampling.ipynb/">Thompson_Sampling</a><br>
       &emsp; Section25 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section25/Upper_Confidence_Bound_(UCB).ipynb/">Upper_Confidence_Bound_(UCB)</a><br>
     </p>
+   <h2>> Natural_Language_Processing</h2>
+     <p>
+       &emsp; Section26 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section26/Natural_Language_Processing.ipynb/">Natural_Language_Processing</a><br>
+     </p>
 
   
