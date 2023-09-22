@@ -45,6 +45,7 @@
     <h2>> Deep_Learning</h2>
      <p>
        &emsp; Section27 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section27/ANN.ipynb/">Artificial_Neural_Networks</a><br>
+       &emsp; Section28 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section28/CNN.ipynb">Convolutional_Neural_Networks</a><br>
      </p>
      
   
