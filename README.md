@@ -47,5 +47,10 @@
        &emsp; Section27 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section27/ANN.ipynb/">Artificial_Neural_Networks</a><br>
        &emsp; Section28 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section28/CNN.ipynb">Convolutional_Neural_Networks</a><br>
      </p>
+    <h2>> Dimensionality_Reduction</h2>
+     <p>
+       &emsp; Section29 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section29/PCA.ipynb">Principal_Component_Analysis_(PCA)</a><br>
+       &emsp; Section30 -> <a href="">Linear_Discriminant_Analysis_(LDA)</a><br>
+     </p>
      
   
