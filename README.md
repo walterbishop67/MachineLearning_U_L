@@ -42,5 +42,9 @@
      <p>
        &emsp; Section26 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section26/Natural_Language_Processing.ipynb/">Natural_Language_Processing</a><br>
      </p>
-
+    <h2>> Deep_Learning</h2>
+     <p>
+       &emsp; Section27 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section27/ANN.ipynb/">Artificial_Neural_Networks</a><br>
+     </p>
+     
   
