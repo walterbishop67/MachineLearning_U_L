@@ -51,7 +51,7 @@
      <p>
        &emsp; Section29 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section29/PCA.ipynb">Principal_Component_Analysis_(PCA)</a><br>
        &emsp; Section30 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section30/LDA.ipynb">Linear_Discriminant_Analysis_(LDA)</a><br>
-       &emsp; Section31 -> <a href="">Kernel_PCA</a><br>
+       &emsp; Section31 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section31/KernelPCA.ipynb">Kernel_PCA</a><br>
      </p>
      
   
