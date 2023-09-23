@@ -55,5 +55,5 @@
      <h2>> Model_Selection&Boosting</h2>
      <p>
        &emsp; Section32 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section32/Ml_Sec32.ipynb">Model_Selection</a><br>
-       &emsp; Section33 -> <a href="<">XGBoost</a><br>
+       &emsp; Section33 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section33/Ml_Sec33.ipynb">XGBoost</a><br>
      </p>
