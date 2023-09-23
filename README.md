@@ -52,6 +52,8 @@
        &emsp; Section29 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section29/PCA.ipynb">Principal_Component_Analysis_(PCA)</a><br>
        &emsp; Section30 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section30/LDA.ipynb">Linear_Discriminant_Analysis_(LDA)</a><br>
        &emsp; Section31 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section31/KernelPCA.ipynb">Kernel_PCA</a><br>
+     <h2>> Model_Selection&Boosting</h2>
+     <p>
+       &emsp; Section32 -> <a href="https://github.com/walterbishop67/MachineLearning_U_L/blob/main/Section32/Ml_Sec32.ipynb">Model_Selection</a><br>
+       &emsp; Section33 -> <a href="<">XGBoost</a><br>
      </p>
-     
-  
